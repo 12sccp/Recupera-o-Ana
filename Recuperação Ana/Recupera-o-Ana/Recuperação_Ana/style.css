@@ -1,0 +1,59 @@
+
+body{
+    background: #5e5e5e;
+    color: aliceblue;
+    
+    
+}
+
+
+
+.botão{
+    padding: 1px 100px;
+    width: 50px;
+    color: white;
+    background: rgba(1, 11, 103, 0.6);
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align:center;
+    user-select: none;
+    cursor: pointer;
+}
+.btn{
+    padding: 1px 100px;
+    width: 50px;
+    color: white;
+    background: rgba(188, 12, 12, 0.6);
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    
+}
+.buton{
+    padding: 1px 100px;
+    width: 50px;
+    color: white;
+    background: rgba(35, 34, 34, 0.6);
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+.botão:hover{
+    background:rgba(3, 8, 59, 0.6);
+}
+
+.btn:hover{
+    background: rgba(111, 3, 3, 0.6);
+}
+
+.buton:hover{
+    background: rgba(13, 13, 13, 0.6);
+    
+}
+
+
